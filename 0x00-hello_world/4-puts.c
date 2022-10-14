@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
- * Main - Entry point
+ * Main -Entry point
  * char -string initialisation
  * puts -string to stdout
  * return -always 0 (success)
