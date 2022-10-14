@@ -2,4 +2,3 @@
 1-compiler: Compiling without linking
 2-assembler: Generates the assembly code of a C code
 3-name: Compile and create an executable
-4-puts.c: Code using puts
