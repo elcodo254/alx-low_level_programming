@@ -1,10 +1,9 @@
 #include<stdio.h>
 
 /**
- * Main -Entry point
- * char -string initialisation
+ * main -Entry point
  * puts -string to stdout
- * return -always 0 (success)
+ * Return: 0 if successful
  */
 
 int main(void)
