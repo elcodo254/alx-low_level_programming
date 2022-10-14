@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-/*
+/**
  * Main - Entry point
  * char -string initialisation
  * puts -string to stdout
