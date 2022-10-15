@@ -4,3 +4,4 @@
 3-name: Compile and create an executable
 4-puts.c: Code using puts
 5-printf.c: Using printf to print a string
+6-size.c: Get size of various dat types
