@@ -3,3 +3,4 @@
 2-assembler: Generates the assembly code of a C code
 3-name: Compile and create an executable
 4-puts.c: Code using puts
+5-printf.c: Using printf to print a string
