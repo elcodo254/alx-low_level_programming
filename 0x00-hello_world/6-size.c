@@ -18,7 +18,7 @@ int main(void)
 
 	float floatType;
 
-	printf("Size of char: %ld byte(s)\n", sizeof(charType));
+	printf("Size of a char: %ld byte(s)\n", sizeof(charType));
 
 	printf("Size of an int: %ld byte(s)\n", sizeof(intType));
 
