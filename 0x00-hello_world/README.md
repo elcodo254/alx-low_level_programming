@@ -5,3 +5,4 @@
 4-puts.c: Code using puts
 5-printf.c: Using printf to print a string
 6-size.c: Get size of various dat types
+100-intel: Generate assembly code(intel syntax) of a C code
