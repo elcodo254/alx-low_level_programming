@@ -7,3 +7,4 @@
 6-print_numberz.c: Print single digit base 10 numbers\n
 7-print_tebahpla.c: Print letters of alphabet in reverse\n
 8-print_base16.c: Print numbers of base 16\n
+100-print_comb3.c: Print all possible combination of single digits\n
