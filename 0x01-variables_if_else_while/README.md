@@ -5,3 +5,4 @@
 4-print_alphabt.c: Use loops and conditional arguments on alphabets\n
 5-print_numbers.c: Print base 10 numbers\n
 6-print_numberz.c: Print single digit base 10 numbers\n
+7-print_tebahpla.c: Print letters of alphabet in reverse\n
