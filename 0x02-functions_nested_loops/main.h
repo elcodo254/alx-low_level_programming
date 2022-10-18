@@ -6,5 +6,5 @@
  */
 
 int _putchar(char c);
-void print_alpha(void);
+void print_alphabet(void);
 #endif
