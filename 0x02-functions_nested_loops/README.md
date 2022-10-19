@@ -3,3 +3,4 @@
 2-print_alphabet_x10.c: Print alphabets 10 times using functions.
 3-islower.c: Checks for lowercase characters.
 4-isalpha.c: Function that checks for alphabetic character. 
+5-sign.c: Prints the sign of a number
