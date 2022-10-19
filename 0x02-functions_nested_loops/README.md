@@ -6,3 +6,4 @@
 5-sign.c: Prints the sign of a number
 6-abs.c: Computes absolute value of an integer
 7-print_last_digit.c: Print last digit of a number
+9-times_table.c: Print the 9 times table starting from 0
