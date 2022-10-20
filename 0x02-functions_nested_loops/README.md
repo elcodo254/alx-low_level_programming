@@ -8,3 +8,4 @@
 7-print_last_digit.c: Print last digit of a number
 9-times_table.c: Print the 9 times table starting from 0
 10-add.c: Add two integers
+100-times_table.c: Create a times table
