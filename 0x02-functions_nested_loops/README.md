@@ -10,3 +10,4 @@
 10-add.c: Add two integers
 100-times_table.c: Create a times table
 101-natural.c: Computes sum of natural numbers multiples of 3 and 5
+102-fibonacci.c: Print first 50 fibonacci numbers
