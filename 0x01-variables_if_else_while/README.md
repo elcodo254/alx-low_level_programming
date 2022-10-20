@@ -10,3 +10,4 @@
 100-print_comb3.c: Print all possible combination of single digits\n
 100-print_comb3.c: print combination of two numbers
 101-print_comb4.c: print combination of three numbers
+102-print_comb5.c: print combination of two two digit numbers
