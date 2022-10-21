@@ -12,15 +12,28 @@
  */
 int largest_number(int a, int b, int c)
 {
-	int largest = c;
+	int largest;
 
-	if (b > c)
+	for (c > a || c == a)
 	{
-		largest = b;
+		if (b > c)
+		{
+			largest = b;
+		}
 	}
-	else if (a > c)
+	for (a > b || a == b)
 	{
-		largest = a;
+		if (c > a)
+		{
+			largest = c;
+		}
+	}
+	for (b > c || b == c)
+	{
+		if (a > b)
+		{
+			largest = a;
+		}
 	}
 
 	return (largest);
