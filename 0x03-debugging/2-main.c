@@ -3,6 +3,7 @@
 
 /**
  * main - prints the largest of three integers
+ *
  * Return: 0
  */
 int main(void)
@@ -11,7 +12,7 @@ int main(void)
 	int largest;
 
 	a = 972;
-	b= -98;
+	b = -98;
 	c = 0;
 
 	largest = largest_number(a, b, c);
