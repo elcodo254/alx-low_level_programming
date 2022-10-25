@@ -7,3 +7,5 @@
 6-print_lines.c: print underscore to make lines n times
 7-print_diagonal.c: print backslashes to make a diagonal shape
 8-print_square.c: print square
+9-fizz_buzz.c
+10-print_triangle.c: print triangle
