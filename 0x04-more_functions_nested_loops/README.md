@@ -6,3 +6,4 @@
 5-more_numbers.c: print 0 to 14 ten times
 6-print_lines.c: print underscore to make lines n times
 7-print_diagonal.c: print backslashes to make a diagonal shape
+8-print_square.c: print square
