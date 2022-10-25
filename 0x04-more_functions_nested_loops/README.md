@@ -5,4 +5,4 @@
 4-print_most_numbers.c: print numbers except 2 and 4
 5-more_numbers.c: print 0 to 14 ten times
 6-print_lines.c: print underscore to make lines n times
-
+7-print_diagonal.c: print backslashes to make a diagonal shape
