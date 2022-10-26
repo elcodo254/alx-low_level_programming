@@ -7,3 +7,4 @@
 6-puts2.c: prints every other character in a string
 7-puts_half.c: print second half of a string
 8-print_array.c: print n elements of an array
+9-strcpy.c: copy string pointed to by src
