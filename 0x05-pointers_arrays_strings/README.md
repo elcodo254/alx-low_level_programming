@@ -4,3 +4,4 @@
 3-puts.c: print a string to stdout
 4-print_rev.c: print string in reverse
 5-rev_string.c: reverses a string
+6-puts2.c: prints every other character in a string
