@@ -18,7 +18,7 @@ int main(void)
 			num = num / divs;
 			largestprime = divs;
 		}
-		divs +=1;
+		divs += 1;
 	}
 	printf("%ls\n", largestprime);
 	return (0);
