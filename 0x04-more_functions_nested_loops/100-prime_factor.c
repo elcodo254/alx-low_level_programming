@@ -7,15 +7,19 @@
  */
 int main(void)
 {
-	unsigned long int i;
-	int n = 612852475143;
+	long num = 612852475143;
+	long divs = 2;
+	long largestprime = 0;
 
-	for (i = 3; i < 782849; i = i + 2)
+	while (num != 1)
 	{
-		while ((n % i == 0) && (n != i))
-			n = n / i;
-
+		if (num % divs == 0)
+		{
+			num = num / divs;
+			largestprime = divs;
+		}
+		divs +=1;
 	}
-	printf("%lu\n", n);
+	printf("%ls\n", largestprime);
 	return (0);
 }
