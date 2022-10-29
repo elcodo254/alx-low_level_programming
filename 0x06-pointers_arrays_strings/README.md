@@ -7,3 +7,5 @@
 6-cap_string.c: capitalize each word
 7-leet.c: encodes a string into 1337
 100-rot13.c: encode string using rot13
+101-print_number.c: print integer
+102-magic.c:
