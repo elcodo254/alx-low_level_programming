@@ -3,4 +3,5 @@
 2-strncpy.c: copy one string to another
 3-strcmp.c: compare two strings
 4-rev_array.c: reverse an array
-5-string_toupper.c: change lowercase letters to uppercase 
+5-string_toupper.c: change lowercase letters to uppercase
+6-cap_string.c: capitalize each word
