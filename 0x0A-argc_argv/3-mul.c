@@ -9,9 +9,9 @@
  */
 int main(int argc, char *argv[])
 {
-	int mult, i;
+	int mult;
 
-	if (argc == 1 || argc ==2)
+	if ((argc -1) != 2)
 	{
 		printf("Error\n");
 
@@ -19,14 +19,10 @@ int main(int argc, char *argv[])
 	}
 	else
 	{
-		mult = 1;
+		mult = (atoi(argv[1]) * atoi(argv[2]));
 
-		for (i = 1; i < 3; i++)
-		{
-			mult *= atoi(argv[i]);
+		printf("%d\n", mult);
 
-			printf("%d\n", mult);
-		}
 	}
 	return (0);
 }
