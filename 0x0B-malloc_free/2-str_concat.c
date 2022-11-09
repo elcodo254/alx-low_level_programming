@@ -26,10 +26,12 @@ char *str_concat(char *s1, char *s2)
 
 	ptr = as2;
 	while (*ptr++)
+	{
 		i++;
+	}
 
 	i++;
-	ptr = malloc(sizeof(char) * i++);
+	ptr = malloc(sizeof(char) * i);
 
 	if (ptr == NULL)
 		return (NULL);
