@@ -34,7 +34,7 @@ char *argstostr(int ac, char **av)
 		for (byte = 0; av[arg][byte]; byte++)
 			str[i++] = av[arg][byte];
 
-		str[i] = '\n';
+		str[i++] = '\n';
 	}
 
 	str[size] = '\0';
