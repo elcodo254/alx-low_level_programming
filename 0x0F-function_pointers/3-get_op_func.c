@@ -22,7 +22,7 @@ int (*get_op_func(char *s))(int, int)
 	{
 		i++;
 	}
-	if (s[i] != '\0' || s == NULL || s[0] != *ops[i].op)
+	if (s[1] != '\0' || s == NULL || s[0] != *ops[i].op)
 	{
 		printf("Error\n");
 		exit(99);
