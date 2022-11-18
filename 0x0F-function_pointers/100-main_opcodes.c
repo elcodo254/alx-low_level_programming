@@ -3,7 +3,7 @@
 
 /**
  * main - prints opcode of its own main function
- * @arc: argument count
+ * @argc: argument count
  * @argv: argument vector
  *
  * Return: 0 (success)
