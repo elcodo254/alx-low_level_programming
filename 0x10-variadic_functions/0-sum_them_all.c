@@ -5,7 +5,7 @@
  * sum_them_all - sum all parameters after n
  * @n: number of parameters received after n
  *
- * Return: integer value of sum
+ * Return: 0 if n == 0 otherwise integer value of sum
  */
 int sum_them_all(const unsigned int n, ...)
 {
