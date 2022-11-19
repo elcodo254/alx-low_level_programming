@@ -20,6 +20,6 @@ int main(void)
 		}
 		divs += 1;
 	}
-	printf("%ls\n", largestprime);
+	printf("%ld\n", largestprime);
 	return (0);
 }
