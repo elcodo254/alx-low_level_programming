@@ -4,7 +4,8 @@
 
 /**
  * sum_them_all - sum all parameters after n
- * @n: number of parameters received
+ * @n: number of parameter passed
+ * @...: variable number of parameters
  *
  * Return: 0 if n == 0 otherwise integer value of sum
  */
