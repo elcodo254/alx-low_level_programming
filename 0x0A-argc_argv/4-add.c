@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
 	else
 	{
 		add = 0;
-		
+
 		for (count = 1; count < argc; count++)
 		{
 			ptr = argv[count];
@@ -29,7 +29,7 @@ int main(int argc, char *argv[])
 
 			for (i = 0; i <= length; i++)
 			{
-				if (isdigit(*(ptr + 1)) == 0)
+				if ((isdigit(*ptr) == 0))
 				{
 					printf("Error\n");
 					return (1);
