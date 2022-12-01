@@ -3,6 +3,8 @@
 /**
  * free_listint2 - frees a list
  * @head: double pointer to head
+ *
+ * Description: sets head to NULL
  */
 void free_listint2(listint_t **head)
 {
@@ -11,7 +13,7 @@ void free_listint2(listint_t **head)
 	if (head == NULL)
 		return;
 
-	while (head)
+	while (*head)
 	{
 		temp = (*head)->next;
 		free(*head);
