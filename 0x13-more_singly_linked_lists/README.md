@@ -5,3 +5,4 @@
 5-free_listint2.c: frees singly linked list but sets head to NULL
 6-pop_listint.c: deletes head node of a list
 7-get_nodeint.c: returns the nth node of a list
+10-delete_nodeint.c: deletes node at a given index from a list
