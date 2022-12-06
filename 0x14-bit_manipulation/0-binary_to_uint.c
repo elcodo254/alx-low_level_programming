@@ -12,12 +12,12 @@ unsigned int binary_to_uint(const char *b)
 	unsigned int dgts = 0;
 	int i = 0;
 
-	if (*b == NULL)
+	if (b[i] == '\0')
 		return (0);
 
 	while (b[i] == '0' || b[i] == '1')
 	{
-		dgts = dgts << 1;
+		dgts <<= 1;
 		dgts += b[i] - '0';
 		i++;
 	}
