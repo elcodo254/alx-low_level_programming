@@ -5,8 +5,8 @@
  * @filename:pointer to name of file
  * @text_content: string to append to file
  *
- * Return: -1 if fail or filename is NULL,file
- *is nonexistent or no permission otherwise 1
+ * Return: -1 if fail or filename is NULL or file is
+ * nonexistent or no permission otherwise 1
  */
 int append_text_to_file(const char *filename, char *text_content)
 {
